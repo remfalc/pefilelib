@@ -6,6 +6,7 @@
     "keywords": ["PE"],
     "homepage": "https://github.com/remfalc/pefilelib",
     "license": "Apache License Version 2.0",
+    "version": "1.0.0.0",
  
      "authors": [
         {
